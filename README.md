@@ -4,12 +4,12 @@
 <img src="./img/Group 96.png" width="40%">
 <img src="./img/Group 95.png" width="40%">
 <div>
-<img src="https://img.shields.io/badge/NCP-GR?logo=Naver&logoColor=white" width="60em" height="30em">
-<img src="https://img.shields.io/badge/React-61DBFB?logo=React&logoColor=white" width="60em" height="30em">
-<img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white" width="60em" height="30em">
-<img src="https://img.shields.io/badge/YOLO-yellow?logo=SVG&logoColor=white" width="60em" height="30em">
-<img src="https://img.shields.io/badge/colab-orange?logo=Google&logoColor=white" width="60em" height="30em">
-<img src="https://img.shields.io/badge/SpringBoot-79A84?logo=SpringBoot&logoColor=white" width="100em" height="30em">
+<img src="https://img.shields.io/badge/NCP-GR?logo=Naver&logoColor=white" width="60em" height="25em">
+<img src="https://img.shields.io/badge/React-61DBFB?logo=React&logoColor=white" width="60em" height="25em">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white" width="60em" height="25em">
+<img src="https://img.shields.io/badge/YOLO-yellow?logo=SVG&logoColor=white" width="60em" height="25em">
+<img src="https://img.shields.io/badge/colab-orange?logo=Google&logoColor=white" width="60em" height="25em">
+<img src="https://img.shields.io/badge/SpringBoot-79A84?logo=SpringBoot&logoColor=white" width="100em" height="25em">
 </div>
 
 [아이쇼핑 바로가기](https://eyeshopping.shop:8443/#)
