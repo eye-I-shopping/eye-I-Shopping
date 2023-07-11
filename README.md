@@ -95,13 +95,14 @@
   - 사용자 개별 설정 값 전달: Session Storage에 2진법을 활용한 Voice, Speed, 제공받을 정보선택 값을 저장 후 요청
   - 금액: 네이버 클라우드 제공 Credit 활용
 
-<h4>자동 재생 정책(Autoplay Policy)
+<h4>자동 재생 정책(Autoplay Policy)</h4>
   
   - 자동 재생 제한 에러
+
     - oncanplaythrough를 사용 : 오디오나 비디오의 메타데이터 로딩이 완료되고, 그 이후 미디어가 끝까지 재생되는 데 중단 없이 충분한 데이터가 있는 경우에 발생
     - setTimeOut 사용
     - 해당 Button에 오디오 매핑
-  
+
   <h4>카메라 접근</h4>
 
 - IOS 접근
