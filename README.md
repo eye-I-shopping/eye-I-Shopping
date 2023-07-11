@@ -59,13 +59,13 @@
 <h2>버전 관리</h2>
 <h6>2) 인식률 개선</h6>
 <img src="./img/Learn.png">
-<h6>2) GPT를 통한 자연어 처리</h6>
+<h6>3) GPT를 통한 자연어 처리</h6>
 <img src="./img/GptNStore.png">
 <br>
 <h2>전문가 테스트</h2>
 <img src="./img/Test.png">
 <p>2023.06.01<br>
-백암고등학교 특수반 김연수 선생님의 도움을 받아 시각장애인 2명을 대상으로 편의점에서 유저 테스트를 진행.<br>
+경기도 OO고등학교 통합교육반 김O수 선생님의 도움을 받아 시각장애인 2명을 대상으로 편의점에서 유저 테스트를 진행.<br>
 <img src="./img/TestReview.png"> <br>유저 의견을 먼저 반영하여 1.1버전으로 개선하였으며, 김연수 선생님의 의견을 반영하여 1.2버전으로 업데이트 예정
 </p>
 
@@ -84,16 +84,25 @@
 <h2>문제해결</h2>
 <h4>CORS</h4>
 
--
+- CORS(Cross-Origin Resource Sharing)에러 해결방안
 
-<h4>TTS</h4>
+  - Middleware Proxy 서버 이용해 클라이언트와 서버 간 통신문제 해결
 
--
+  <h4>TTS</h4>
 
-<h4>카메라 접근</h4>
+- 네이버 CLOVA Voice
 
--
+  - 사용자 개별 설정 값 전달: Session Storage에 2진법을 활용한 Voice, Speed, 제공받을 정보선택 값을 저장 후 요청
+  - 금액: 네이버 클라우드 제공 Credit 활용
 
-<h4>코드 가독성 및 유지보수</h4>
+<h4>자동 재생 정책(Autoplay Policy)
+  
+  - 자동 재생 제한 에러
+    - oncanplaythrough를 사용 : 오디오나 비디오의 메타데이터 로딩이 완료되고, 그 이후 미디어가 끝까지 재생되는 데 중단 없이 충분한 데이터가 있는 경우에 발생
+    - setTimeOut 사용
+    - 해당 Button에 오디오 매핑
+  
+  <h4>카메라 접근</h4>
 
--
+- IOS 접근
+  - 소스에 playsInline 추가하여 해결, 카메라는 https에서만 열기 가능.
