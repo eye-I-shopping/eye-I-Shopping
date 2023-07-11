@@ -49,9 +49,9 @@
 
 <br>
 <h2>버전 관리</h2>
-<h6>2) 인식률 개선</h6>
+<h6>1. 인식률 개선</h6>
 <img src="./img/Learn.png">
-<h6>3) GPT를 통한 자연어 처리</h6>
+<h6>2. GPT를 통한 자연어 처리</h6>
 <img src="./img/GptNStore.png">
 <br>
 <h2>전문가 테스트</h2>
