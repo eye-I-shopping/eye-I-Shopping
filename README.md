@@ -142,4 +142,5 @@
 <h3>매대 인식기능<h3>
 <img src="./img/매대인식 기능.JPG" >
 <h3>위치정보 전달기능<h3>
-<img src="./img/위치정보 제공 서비스 output.JPG">
+<img src="./img/정확도 순으로 3개 위치정보 제공.JPG">
+<img src="./img/위치정보.JPG">
