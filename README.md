@@ -137,8 +137,9 @@
 <img src="./img/Testdata.JPG">
 <h2>핵심 기능</h2>
 <h3>GPT 자연어처리기능</h3>
-
+<img src="./img/GPT.JPG"style="height:400px">
+<h4>GPT의 다빈치 모델을 이용해 사용자가 필요한 데이터들을 자연스럽게 자연어 처리후 사용자에게 전달한다.</h4>
 <h3>매대 인식기능<h3>
-<img src="./img/매대인식 기능.JPG">
+<img src="./img/매대인식 기능.JPG" >
 <h3>위치정보 전달기능<h3>
 <img src="./img/위치정보 제공 서비스 output.JPG">
