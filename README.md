@@ -118,3 +118,27 @@
 <br/>
 <br/>
 <img src="./img/results.png">
+
+
+
+# 5. back-End
+<h3>API 명세서</h3>
+<img src="./img/swagger.JPG">
+<h2> Settings </h2>
+<img src="./img/setting.JPG">
+<img src="./img/settingrespon.JPG">
+<h2>user Data 가져오기 </h2>
+<img src="./img/settingget.JPG">
+<img src="./img/settinggetrespon.JPG">
+<h3>제품 데이터</h3>
+<img src="./img/product.JPG">
+<img src="./img/productRespon.JPG">
+<h3>Product 테이블</h3>
+<img src="./img/Testdata.JPG">
+<h2>핵심 기능</h2>
+<h3>GPT 자연어처리기능</h3>
+
+<h3>매대 인식기능<h3>
+<img src="./img/매대인식 기능.JPG">
+<h3>위치정보 전달기능<h3>
+<img src="./img/위치정보 제공 서비스 output.JPG">
