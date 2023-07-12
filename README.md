@@ -59,11 +59,9 @@
 <br/>
 <br/>
 
-# 2. 유저 테스트 및 업데이트 계획
+# 2. 유저 테스트
 
-<h2>버전 관리 및 업데이트 계획</h2>
-<img src="./img/GptNStore.png">
-<br>
+
 <h2>테스트</h2>
 <img src="./img/Test.png">
 <p>2023.06.01<br>
@@ -122,7 +120,13 @@
 
 
 # 5. back-End
-<h3>API 명세서</h3>
+<h2>문제해결</h2>
+<h4>GPT</h4>
+- GPT 답변 이슈 해결방안
+<img src="./img/GptNStore.png">
+<br>
+
+<h2>API 명세서</h2>
 <img src="./img/swagger.JPG">
 <h2> Settings </h2>
 <img src="./img/setting.JPG">
