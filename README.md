@@ -118,31 +118,29 @@
 
 
 # 5. back-End
-<h2>문제해결</h2>
-<h4>GPT</h4>
-- GPT 답변 이슈 해결방안
+<h2>기능</h2>
+<h4>1. GPT</h4>
+- GPT 다빈치 모델 v2 을 사용하여 자연어 처리 구현
 <img src="./img/GptNStore.png">
-<br>
+<h5>● 사용자 세팅값 따라 달라지는 데이터 정보를 자연스럽게 연결하기위해 GPT API를 이용해서 자연어 처리를 진행</h5>
+<h5>● GPT davinci2모델을 사용할 때 질문에 따라 결과가 원하는 결과값이 안 나오는 문제 발생</h5>
+<h5>● 여러가지 질문을 시도하여 최적의 질문을 찾아 원하는 결과값을 찾는 과정으로 진행</h5>
+<h4>2. 상품 데이터 전달 기능</h4>
+<img src="./img/008.jpg">
+<h5>사용자 설정값을 front-end에서 back-end으로 전달하고 10진법으로 설정된 값을 데이터베이스에 token_id와 함께 저장할려고 보낸다. 이후 이 설정값에 숫자에 따라 사용자에게 주는 데이터값을 달리한다.</h5>
+<h4>3. 매대인식 기능 </h4>
+<img src="./img/003.jpg">
+<h5>10개이상의 결과 값을 받으면 받은 상품들의 카테고리를 데이터베이스에서 찾아서 그 가장 많은 카테고리를 리턴해준다.</h5>
+<h4>4. 근처 상품 위치정보 제공 기능 </h4>
+<img src="./img/002.jpg">
+<h5>10개 미만의 1개이상의 상품 데이터를 받으면 상품 데이터의 정확도 순으로 3개를 찾아서 제일 높은 정확도를 가진 상품의 데이터의 상품 정보와 제일 높은 정확도를 가진 상품기준으로 좌표값을 계산하여 정확도 2번째 3번째의 위치정보를 전달해준다.</h5>
+<h4>5. 유저 토큰값 DB 세팅 </h4>
+<img src="./img/005.jpg">
+<h5>초기 유저의 토큰값과 유저들이 세팅한 세팅값 들을 데이터베이스에 저장 </h5>
+<h4>6. 유저 세팅값 가져오기 </h4>
+<img src="./img/006.jpg">
+<h5>초기 세팅이후에 만약 유저의 토큰이 데이터베이스에 있으면 기존 데이터베이스에 저장되어있는 세팅정보들을 찾아와서 설정값을 세팅함 </h5>
+<h4>7. Swagger API 명세서 </h4>
 
-<h2>API 명세서</h2>
-<img src="./img/swagger.JPG">
-<h2> Settings </h2>
-<img src="./img/setting.JPG">
-<img src="./img/settingrespon.JPG">
-<h2>user Data 가져오기 </h2>
-<img src="./img/settingget.JPG">
-<img src="./img/settinggetrespon.JPG">
-<h3>제품 데이터</h3>
-<img src="./img/product.JPG">
-<img src="./img/productRespon.JPG">
-<h3>Product 테이블</h3>
-<img src="./img/Testdata.JPG">
-<h2>핵심 기능</h2>
-<h3>GPT 자연어처리기능</h3>
-<img src="./img/GPT.JPG"style="height:400px">
-<h4>GPT의 다빈치 모델을 이용해 사용자가 필요한 데이터들을 자연스럽게 자연어 처리후 사용자에게 전달한다.</h4>
-<h3>매대 인식기능<h3>
-<img src="./img/매대인식 기능.JPG" >
-<h3>위치정보 전달기능<h3>
-<img src="./img/정확도 순으로 3개 위치정보 제공.JPG">
-<img src="./img/위치정보.JPG">
+### [API 명세서](https://app.swaggerhub.com/apis/BONG94688_1/eyeshopiing/2.0.0)
+<img src="./img/001.jpg">
