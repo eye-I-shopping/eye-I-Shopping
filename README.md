@@ -61,7 +61,6 @@
 
 # 2. 유저 테스트
 
-
 <h2>테스트</h2>
 <img src="./img/Test.png">
 <p>2023.06.01<br>
@@ -82,29 +81,31 @@
 - 화면 컨트롤 영역을 확장하여 화면의 어느 부분을 터치해도 그에 설정된 동작이 실행
 
 <h2>문제해결</h2>
-1. AutoPlay 
+1. AutoPlay
 
 - 문제: 브라우저의 보안 정책으로 인해 화면에서 음성 파일의 자동 재생 제한
-- 해결: 
+- 해결:
   - oncanplaythrough : 오디오나 비디오의 메타데이터 로딩이 완료되고, 그 이후 미디어가 끝까지 재생되는 데 중단 없이 충분한 데이터가 있는 경우 음성 안내를 제공하여 보안 정책을 우회
   - setInterval : useState Hook을 사용해 Loading여부를 판별하고 음성 출력Interval을 handling
   - Button Mapping : client의 버튼 상호작용을 통해 음성출력 handling
 
 2. CORS
+
 - 문제: 브라우저에서 다른 출처로 HTTP 요청을 실행하는 것을 제한하여 웹 앱에서 데이터를 교환하는데 문제 발생
 - 해결:
   - Middleware Proxy 서버 API를 사용하여 브라우저의 CORS 정책을 우회하고 데이터를 원활하게 교환할 수 있게 한다.
 
 3. IOS Access
+
 - 문제: iOS 카메라 접근 시 https 프로토콜을 필요로 하여 해당 요건을 만족하였음에도 카메라 접근에 실패하는 문제가 발생
 - 해결:
-  - iOS에서 비디오나 카메라를 제어하려면 웹 앱이 해당 리소스에 대한 지속적인 접근 권한을 가져야 하는데 전체 화면 모드가 활성화되면, 사용자 인터페이스는 웹 앱의 범위를 벗어나고 웹 브라우저 자체의 제어 아래에 있게 된다. 이 때 웹 앱이 비디오나 카메라에 대한 직접적인 제어를 할 수 없게 되므로  playsInline 속성을 사용해 전체 화면 모드로 전환되는 것을 방지한다.
+  - iOS에서 비디오나 카메라를 제어하려면 웹 앱이 해당 리소스에 대한 지속적인 접근 권한을 가져야 하는데 전체 화면 모드가 활성화되면, 사용자 인터페이스는 웹 앱의 범위를 벗어나고 웹 브라우저 자체의 제어 아래에 있게 된다. 이 때 웹 앱이 비디오나 카메라에 대한 직접적인 제어를 할 수 없게 되므로 playsInline 속성을 사용해 전체 화면 모드로 전환되는 것을 방지한다.
 
 4. CLOVA Voice Request
+
 - 문제: 서비스에 회원 가입 기능이 없어 사용자 구별 및 설정 값 구현기능에 어려움
 - 해결:
   - 사용자를 구별하기 위해 토큰을 활용하고, 세션 스토리지를 이용하여 사용자의 설정 값을 저장한다. <br>백엔드와 소통하기 위해 2진법을 사용하여 설정 값을 전달.
-
 
 # 4. AI
 
@@ -115,9 +116,8 @@
 <br/>
 <img src="./img/results.png">
 
-
-
 # 5. back-End
+
 <h2>기능</h2>
 <h4>1. GPT</h4>
 - GPT 다빈치 모델 v2 을 사용하여 자연어 처리 구현
@@ -146,3 +146,86 @@
   ### [API 명세서](https://app.swaggerhub.com/apis/BONG94688_1/eyeshopiing/2.0.0)
   </h2>
 <img src="./img/001.jpg">
+
+<hr/>
+
+## 👩‍💻 팀원 소개
+
+<br/>
+
+<div align="left">
+  <table>
+  <tr>
+      <td align="center">
+        <a href="https://github.com/variety82/">
+          성지민
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/parkgr95">
+          심봉교
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/kkt4828/">
+          박준형
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/mata1139">
+          김한슬
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Somang-Kang">
+          이완재
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+          <img src="" alt="성지민 프로필" width=120 height=120 />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/parkgr95">
+          <img src="" alt="심봉교 프로필" width=120 height=120 />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/kkt4828/">
+          <img src="" alt="박준형 프로필" width=120 height=120 />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/mata1139">
+          <img src="" alt="김한슬 프로필" width=120 height=120 />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Somang-Kang">
+          <img src="" alt="이완재 프로필" width=120 height=120 />
+        </a>
+      </td>
+    </tr>
+      <tr>
+      <td align="center">
+          <p>Leader</p>
+          <p>Back-end</p>
+      </td>
+      <td align="center">
+          <p>Back-end</p>
+      </td>
+      <td align="center">
+          <p>AI</p>
+          <p>Front-end</p>
+      </td>
+      <td align="center">
+          <p>Front-end</p>
+      </td>
+      <td align="center">
+          <p>Front-end</p>
+      </td>
+    </tr>
+  </table>
+</div>
