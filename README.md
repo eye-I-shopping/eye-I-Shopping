@@ -157,27 +157,27 @@
   <table>
   <tr>
       <td align="center">
-        <a href="https://github.com/variety82/">
+        <a href="https://github.com/jmeancode">
           성지민
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/parkgr95">
+        <a href="https://github.com/simbonggyo">
           심봉교
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/kkt4828/">
+        <a href="https://github.com/ParkSeryu">
           박준형
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/mata1139">
+        <a href="https://github.com/1three">
           김한슬
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/Somang-Kang">
+        <a href="https://github.com/leewanjae">
           이완재
         </a>
       </td>
