@@ -29,10 +29,9 @@
   - 문제해결
 - AI
 - Back-End
-
-[프론트엔드 저장소](https://github.com/eye-I-shopping/front-end.git)
+- [프론트엔드 저장소](https://github.com/eye-I-shopping/front-end.git)
 <br/>
-[백엔드 저장소](https://github.com/eye-I-shopping/back-end.git)
+- [백엔드 저장소](https://github.com/eye-I-shopping/back-end.git)
 
 
 # 1. 개요 Overview
