@@ -30,6 +30,10 @@
 - AI
 - Back-End
 
+[프론트엔드](https://github.com/eye-I-shopping/front-end.git)
+[백엔드](https://github.com/eye-I-shopping/back-end.git)
+
+
 # 1. 개요 Overview
 
 <h2>프로젝트 소개</h2>
