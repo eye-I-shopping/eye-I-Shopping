@@ -188,27 +188,19 @@
     <tr>
       <td align="center">
           <img src="" alt="성지민 프로필" width=120 height=120 />
-        </a>
+       
       </td>
       <td align="center">
-        <a href="https://github.com/parkgr95">
           <img src="" alt="심봉교 프로필" width=120 height=120 />
-        </a>
       </td>
       <td align="center">
-        <a href="https://github.com/kkt4828/">
           <img src="" alt="박준형 프로필" width=120 height=120 />
-        </a>
       </td>
       <td align="center">
-        <a href="https://github.com/mata1139">
           <img src="" alt="김한슬 프로필" width=120 height=120 />
-        </a>
       </td>
       <td align="center">
-        <a href="https://github.com/Somang-Kang">
           <img src="" alt="이완재 프로필" width=120 height=120 />
-        </a>
       </td>
     </tr>
       <tr>
