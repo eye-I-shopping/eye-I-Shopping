@@ -188,7 +188,6 @@
     <tr>
       <td align="center">
           <img src="" alt="성지민 프로필" width=120 height=120 />
-       
       </td>
       <td align="center">
           <img src="" alt="심봉교 프로필" width=120 height=120 />
