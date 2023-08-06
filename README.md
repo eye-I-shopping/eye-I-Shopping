@@ -146,7 +146,7 @@
 
 <h2>
   
-  ### [API 명세서](https://app.swaggerhub.com/apis/BONG94688_1/eyeshopiing/2.0.0)
+  ### [API 명세서](https://app.swaggerhub.com/apis/BONG94688_1/EyeShopping/1.0.0)
   </h2>
 <img src="./img/001.jpg">
 
