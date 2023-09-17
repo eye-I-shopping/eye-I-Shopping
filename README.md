@@ -12,7 +12,6 @@
 <img src="https://img.shields.io/badge/SpringBoot-79A84?logo=SpringBoot&logoColor=white" width="100em" height="25em">
 </div>
 
-[아이쇼핑 바로가기](https://eyeshopping.shop:8443/#)
 
 # 목차 Index
 
