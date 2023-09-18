@@ -12,7 +12,6 @@
 <img src="https://img.shields.io/badge/SpringBoot-79A84?logo=SpringBoot&logoColor=white" width="100em" height="25em">
 </div>
 
-  <br>
   
   [![아이쇼핑 소개영상](http://img.youtube.com/vi/BI5BDrtehRA/0.jpg)](https://youtu.be/BI5BDrtehRA?t=0s) 
 
