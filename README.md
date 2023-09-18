@@ -207,7 +207,7 @@
           <p>Back-end</p>
       </td>
       <td align="center">
-          <p>AI(BACK)</p>
+          <p>AI(FLASK)</p>
           <p>Front-end</p>
       </td>
       <td align="center">
