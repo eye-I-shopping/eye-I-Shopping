@@ -15,7 +15,10 @@
   
   [![아이쇼핑 소개영상](http://img.youtube.com/vi/BI5BDrtehRA/0.jpg)](https://youtu.be/BI5BDrtehRA?t=0s) 
 
-  
+## 🏆 수상 및 성과
+**1. 2023 국민행복 서비스 발굴·창업 경진대회 대상 수상 (보건복지부 장관상)**
+
+
 # 목차 Index
 
 - 개요
