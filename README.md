@@ -4,7 +4,6 @@
 <img src="./img/Group 96.png" width="40%">
 <img src="./img/Group 95.png" width="40%">
 <div>
-  <br>
 <img src="https://img.shields.io/badge/NCP-GR?logo=Naver&logoColor=white" width="60em" height="25em">
 <img src="https://img.shields.io/badge/React-61DBFB?logo=React&logoColor=white" width="60em" height="25em">
 <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white" width="60em" height="25em">
@@ -208,7 +207,7 @@
           <p>Back-end</p>
       </td>
       <td align="center">
-          <p>AI</p>
+          <p>AI(BACK)</p>
           <p>Front-end</p>
       </td>
       <td align="center">
