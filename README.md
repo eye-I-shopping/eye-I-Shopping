@@ -1,23 +1,32 @@
 # 머신러닝과 ChatGPT를 활용한 시각장애인 맞춤형 구매 솔루션
 
-<h1 align="center">
+<div align="center">
 <img src="./img/Group 96.png" width="40%">
 <img src="./img/Group 95.png" width="40%">
 <div>
+  <br>
 <img src="https://img.shields.io/badge/NCP-GR?logo=Naver&logoColor=white" width="60em" height="25em">
 <img src="https://img.shields.io/badge/React-61DBFB?logo=React&logoColor=white" width="60em" height="25em">
 <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white" width="60em" height="25em">
 <img src="https://img.shields.io/badge/YOLO-yellow?logo=SVG&logoColor=white" width="60em" height="25em">
 <img src="https://img.shields.io/badge/colab-orange?logo=Google&logoColor=white" width="60em" height="25em">
 <img src="https://img.shields.io/badge/SpringBoot-79A84?logo=SpringBoot&logoColor=white" width="100em" height="25em">
+  <br>
+<br>
 </div>
 
-  
-  [![아이쇼핑 소개영상](http://img.youtube.com/vi/BI5BDrtehRA/0.jpg)](https://youtu.be/BI5BDrtehRA?t=0s) 
 
-## 🏆 수상 및 성과
+ [![아이쇼핑 소개영상](http://img.youtube.com/vi/BI5BDrtehRA/0.jpg)](https://youtu.be/BI5BDrtehRA?t=0s) 
+</div>
+
+<br>
+
+# 🏆 수상 및 성과
 **2023 국민행복 서비스 발굴·창업 경진대회 대상 수상 (보건복지부 장관상)**
 
+
+
+<br>
 
 # 목차 Index
 
@@ -188,23 +197,6 @@
         <a href="https://github.com/leewanjae">
           이완재
         </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-          <img src="" alt="성지민 프로필" width=120 height=120 />
-      </td>
-      <td align="center">
-          <img src="https://github.com/bong94688" alt="심봉교 프로필" width=120 height=120 />
-      </td>
-      <td align="center">
-          <img src="" alt="박준형 프로필" width=120 height=120 />
-      </td>
-      <td align="center">
-          <img src="" alt="김한슬 프로필" width=120 height=120 />
-      </td>
-      <td align="center">
-          <img src="" alt="이완재 프로필" width=120 height=120 />
       </td>
     </tr>
       <tr>
